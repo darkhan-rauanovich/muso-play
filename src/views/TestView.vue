@@ -1,5 +1,5 @@
 <template>
-  <h1>Test page for github</h1>
+  <h1>Test page for github yes work</h1>
 </template>
 
 <script>
